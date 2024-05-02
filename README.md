@@ -11,7 +11,7 @@ Before running the ChatBot, ensure that you have the required dependencies insta
 ```
 pip install -r requirements.txt
 ```
-The ChatBot uses a configuration file (config.yaml) to specify Hugging Face model and embeddings details. Make sure to update the configuration file with the appropriate values if you wanted to try another model or embeddings. The default LLM used if Llama2-13b
+The ChatBot uses a configuration file (config.yaml) to specify Hugging Face model and embeddings details. Make sure to update the configuration file with the appropriate values if you wanted to try another model or embeddings. The default LLM used is Llama2-13b
 1. Upload a PDF file using the "📁 Upload PDF" button.
 2. Enter your questions in the text box.
 3. Click the "Send" button to submit your question.
